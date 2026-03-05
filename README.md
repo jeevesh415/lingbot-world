@@ -65,7 +65,7 @@ pip install flash-attn --no-build-isolation
 | Model | Control Signals | Resolution | Download Links |
 | :---  | :--- | :--- | :--- |
 | **LingBot-World-Base (Cam)** | Camera Poses | 480P & 720P | 🤗 [HuggingFace](https://huggingface.co/robbyant/lingbot-world-base-cam) 🤖 [ModelScope](https://www.modelscope.cn/models/Robbyant/lingbot-world-base-cam) |
-| **LingBot-World-Base (Act)** | Actions | - | 🤗 [HuggingFace](https://huggingface.co/robbyant/lingbot-world-base-act) |
+| **LingBot-World-Base (Act)** | Actions | 480P & 720P | 🤗 [HuggingFace](https://huggingface.co/robbyant/lingbot-world-base-act) |
 | **LingBot-World-Fast**       |    -    | - | *To be released* |
 
 Download models using huggingface-cli:
